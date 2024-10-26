@@ -1,0 +1,11 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "main": "messages.js",
+  "scripts": {
+    "start": "node messages.js"
+  },
+  "dependencies": {
+    "mongodb": "^4.1.0"
+  }
+}
